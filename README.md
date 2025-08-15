@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Aditya123-bit/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1791-richest-customer-wealth](https://github.com/Aditya123-bit/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2058-concatenation-of-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/Aditya123-bit/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2058-concatenation-of-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
