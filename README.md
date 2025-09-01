@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aditya123-bit/Leetcode/tree/master/0283-move-zeroes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Aditya123-bit/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aditya123-bit/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Aditya123-bit/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Aditya123-bit/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Aditya123-bit/Leetcode/tree/master/1791-richest-customer-wealth) |
