@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Aditya123-bit/Leetcode/tree/master/0344-reverse-string) |
+| [0742-to-lower-case](https://github.com/Aditya123-bit/Leetcode/tree/master/0742-to-lower-case) |
 ## Divide and Conquer
 |  |
 | ------- |
