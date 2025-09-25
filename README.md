@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/0258-add-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Aditya123-bit/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Aditya123-bit/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aditya123-bit/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/0258-add-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Aditya123-bit/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Aditya123-bit/Leetcode/tree/master/2383-add-two-integers) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aditya123-bit/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
