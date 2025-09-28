@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Aditya123-bit/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Aditya123-bit/Leetcode/tree/master/2383-add-two-integers) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Aditya123-bit/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Matrix
 |  |
 | ------- |
