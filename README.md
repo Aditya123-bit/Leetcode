@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aditya123-bit/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3226-minimum-number-game](https://github.com/Aditya123-bit/Leetcode/tree/master/3226-minimum-number-game) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Aditya123-bit/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Aditya123-bit/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Aditya123-bit/Leetcode/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Aditya123-bit/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Aditya123-bit/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
 | ------- |
