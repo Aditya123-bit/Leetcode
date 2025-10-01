@@ -6,13 +6,13 @@ class Solution {
             sum += nums[i];
             digitsum += sumOfDigit(nums[i]);
         }
-        return sum - digitsum;
+        return Math.abs(sum - digitsum);
     }
     public static int sumOfDigit(int n){
-        int sum = 0;
+      int sum = 0;
         while (n>0){
-        sum += n%10;
-        n = n/10;
+            sum += n%10;
+            n = n/10;
         }
     return sum;
     }
