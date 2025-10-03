@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aditya123-bit/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Aditya123-bit/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Aditya123-bit/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/Aditya123-bit/Leetcode/tree/master/3226-minimum-number-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Aditya123-bit/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya123-bit/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aditya123-bit/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya123-bit/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Aditya123-bit/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/Aditya123-bit/Leetcode/tree/master/3226-minimum-number-game) |
 ## Counting Sort
 |  |
