@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        List<Integer> ls = new ArrayList<>();
+        List<Integer> res = new ArrayList<>();
         int n = nums.length;
         int count1 = 0;
         int el1 =  Integer.MIN_VALUE;
@@ -29,17 +29,17 @@ class Solution {
             }
         }
         count1 = 0;
-         count2 = 0;
+        count2 = 0;
         for(int i = 0; i<n; i++){
             if(el1 == nums[i]) count1++;
             if(el2 == nums[i]) count2++;
         }
         if(count1 >= min){
-            ls.add(el1);
+            res.add(el1);
         }
          if(count2 >= min){
-            ls.add(el2);
+            res.add(el2);
         }
-        return ls;
+        return res;
     }
 }
