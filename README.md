@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Aditya123-bit/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aditya123-bit/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Aditya123-bit/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Aditya123-bit/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aditya123-bit/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Aditya123-bit/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya123-bit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Aditya123-bit/Leetcode/tree/master/1448-maximum-69-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Aditya123-bit/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
