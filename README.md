@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aditya123-bit/Leetcode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Aditya123-bit/Leetcode/tree/master/0742-to-lower-case) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Aditya123-bit/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aditya123-bit/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
