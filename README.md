@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aditya123-bit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya123-bit/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya123-bit/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aditya123-bit/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya123-bit/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya123-bit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Aditya123-bit/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aditya123-bit/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya123-bit/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya123-bit/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aditya123-bit/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya123-bit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Aditya123-bit/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya123-bit/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
