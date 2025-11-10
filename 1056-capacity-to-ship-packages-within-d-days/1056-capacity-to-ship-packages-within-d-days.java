@@ -1,7 +1,16 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
-        int low = maxEl(weights);
-        int high = sumOFWeigths(weights);
+        int max = Integer.MIN_VALUE;
+        for(int weight : weights){
+            max = Math.max(max, weight);
+        }
+        int sum = 0;
+        for(int weight : weights){
+            sum += weight;
+        }
+
+        int low = max;
+        int high = sum;
         int ans = high;
 
         while(low <= high){
@@ -17,22 +26,6 @@ class Solution {
             }
         }
         return ans;
-    }
-    public static int maxEl(int[] nums){
-        int max = nums[0];
-        for(int i = 1; i<nums.length; i++){
-            if(nums[i] > max){
-                max = nums[i];
-            }
-        }
-        return max;
-    }
-    public static int sumOFWeigths(int[] weights){
-        int sum = 0;
-        for(int i = 0; i < weights.length; i++){
-            sum += weights[i];
-        }
-    return sum;
     }
     public static int totaldays(int[] weights,int capacity){
         int days = 1;
