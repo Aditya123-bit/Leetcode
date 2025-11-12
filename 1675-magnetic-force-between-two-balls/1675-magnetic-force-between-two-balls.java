@@ -2,18 +2,16 @@ class Solution {
     public int maxDistance(int[] position, int m) {
         Arrays.sort(position);
         int n = position.length;
-        int ans = -1;
-        
+    
         int low = 0;
         int high = position[n-1] - position[0];
         while(low <= high){
             int mid = low + (high - low)/2;
             if(canWePlaceball(position,mid,m) == true){
-                ans = mid;
                 low = mid + 1; 
             }else high = mid - 1;
         }
-        return ans;
+        return high;
     }
     public static boolean canWePlaceball(int[] position,int dist,int ball){
         int countball = 1;
