@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aditya123-bit/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Aditya123-bit/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/Aditya123-bit/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Aditya123-bit/Leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Aditya123-bit/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aditya123-bit/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya123-bit/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya123-bit/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Aditya123-bit/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aditya123-bit/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aditya123-bit/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya123-bit/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Aditya123-bit/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya123-bit/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Aditya123-bit/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Aditya123-bit/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Aditya123-bit/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aditya123-bit/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
