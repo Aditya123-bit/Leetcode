@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya123-bit/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya123-bit/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Aditya123-bit/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Aditya123-bit/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Aditya123-bit/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya123-bit/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aditya123-bit/Leetcode/tree/master/0075-sort-colors) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aditya123-bit/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Aditya123-bit/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Aditya123-bit/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya123-bit/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aditya123-bit/Leetcode/tree/master/0055-jump-game) |
 | [1448-maximum-69-number](https://github.com/Aditya123-bit/Leetcode/tree/master/1448-maximum-69-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Aditya123-bit/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Recursion
