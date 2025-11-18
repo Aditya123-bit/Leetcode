@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aditya123-bit/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Aditya123-bit/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Aditya123-bit/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Aditya123-bit/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Aditya123-bit/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
