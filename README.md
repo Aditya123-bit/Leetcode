@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aditya123-bit/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Aditya123-bit/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aditya123-bit/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aditya123-bit/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aditya123-bit/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Aditya123-bit/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/0258-add-digits) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Aditya123-bit/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aditya123-bit/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aditya123-bit/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 |  |
