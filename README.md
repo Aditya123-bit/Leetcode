@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Aditya123-bit/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aditya123-bit/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/Aditya123-bit/Leetcode/tree/master/2383-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Aditya123-bit/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Aditya123-bit/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Aditya123-bit/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Aditya123-bit/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Aditya123-bit/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Aditya123-bit/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditya123-bit/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aditya123-bit/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
