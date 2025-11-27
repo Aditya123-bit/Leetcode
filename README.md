@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Aditya123-bit/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Aditya123-bit/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Aditya123-bit/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/Aditya123-bit/Leetcode/tree/master/1952-three-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aditya123-bit/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/Aditya123-bit/Leetcode/tree/master/2383-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Aditya123-bit/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Aditya123-bit/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/Aditya123-bit/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Aditya123-bit/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Aditya123-bit/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditya123-bit/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -297,4 +299,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aditya123-bit/Leetcode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Aditya123-bit/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
