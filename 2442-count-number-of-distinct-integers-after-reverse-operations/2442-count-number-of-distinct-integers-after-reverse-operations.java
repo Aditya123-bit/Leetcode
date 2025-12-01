@@ -1,17 +1,10 @@
 class Solution {
     public int countDistinctIntegers(int[] nums) {
-        List<Integer> ans = new ArrayList<>();
-        for(int num : nums){
-            ans.add(num);
-        }
+        Set<Integer> st = new HashSet<>();
 
         for(int i = 0; i<nums.length; i++){
-            ans.add(reverse(nums[i]));
-        }
-
-        Set<Integer> st = new HashSet<>();
-        for(int it : ans){
-            st.add(it);
+            st.add(nums[i]);
+            st.add(reverse(nums[i]));
         }
         return st.size();
     }
