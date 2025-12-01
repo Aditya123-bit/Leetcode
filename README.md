@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aditya123-bit/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aditya123-bit/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Aditya123-bit/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Aditya123-bit/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Aditya123-bit/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya123-bit/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Aditya123-bit/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aditya123-bit/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Aditya123-bit/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aditya123-bit/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Aditya123-bit/Leetcode/tree/master/2383-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Aditya123-bit/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aditya123-bit/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Aditya123-bit/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Aditya123-bit/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Aditya123-bit/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aditya123-bit/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aditya123-bit/Leetcode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/Aditya123-bit/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Aditya123-bit/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Aditya123-bit/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sorting
 |  |
