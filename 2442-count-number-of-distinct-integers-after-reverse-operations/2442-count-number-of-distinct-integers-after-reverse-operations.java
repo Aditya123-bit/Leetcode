@@ -6,10 +6,11 @@ class Solution {
             st.add(num);
             st.add(reverse(num));
         }
+
         return st.size();
     }
     int reverse(int x){
-        long ans = 0;
+        int ans = 0;
 
         while(x != 0){
             int last = x % 10;
@@ -18,6 +19,6 @@ class Solution {
 
             x = x/10;
         }
-        return (int)ans;
+        return ans;
     }
 }
