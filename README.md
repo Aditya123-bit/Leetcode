@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Aditya123-bit/Leetcode/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Aditya123-bit/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya123-bit/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Aditya123-bit/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aditya123-bit/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aditya123-bit/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aditya123-bit/Leetcode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Aditya123-bit/Leetcode/tree/master/0742-to-lower-case) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya123-bit/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Aditya123-bit/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Aditya123-bit/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Aditya123-bit/Leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Aditya123-bit/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Aditya123-bit/Leetcode/tree/master/2427-number-of-common-factors) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya123-bit/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
