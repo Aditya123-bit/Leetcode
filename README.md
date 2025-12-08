@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Aditya123-bit/Leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Aditya123-bit/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Aditya123-bit/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/Aditya123-bit/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Aditya123-bit/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/Aditya123-bit/Leetcode/tree/master/1952-three-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aditya123-bit/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aditya123-bit/Leetcode/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/Aditya123-bit/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Aditya123-bit/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Aditya123-bit/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Stack
