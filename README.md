@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Aditya123-bit/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/Aditya123-bit/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Aditya123-bit/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1390-four-divisors](https://github.com/Aditya123-bit/Leetcode/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Aditya123-bit/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya123-bit/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Aditya123-bit/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Aditya123-bit/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Aditya123-bit/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1390-four-divisors](https://github.com/Aditya123-bit/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aditya123-bit/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Aditya123-bit/Leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Aditya123-bit/Leetcode/tree/master/1635-number-of-good-pairs) |
