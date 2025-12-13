@@ -3,13 +3,13 @@ class Solution {
         List<Integer> res = new ArrayList<>();
 
         for(int i = left; i <= right; i++){
-            if(isSelfDividing(i)){
+            if(check(i)){
                 res.add(i);
             }
         }
     return res;
     }
-    public static boolean isSelfDividing(int n){
+    private boolean check(int n){
         int temp = n;
         while(temp > 0){
             int digit = 0;
