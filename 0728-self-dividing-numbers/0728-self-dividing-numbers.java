@@ -11,9 +11,9 @@ class Solution {
     }
     private boolean check(int n){
         int temp = n;
+        
         while(temp > 0){
-            int digit = 0;
-            digit = temp % 10;
+            int digit =  temp % 10;
 
             if(digit == 0 || n % digit != 0){
                 return false;
