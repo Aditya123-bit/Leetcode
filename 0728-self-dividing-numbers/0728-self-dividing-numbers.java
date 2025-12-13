@@ -3,9 +3,10 @@ class Solution {
         List<Integer> res = new ArrayList<>();
 
         for(int i = left; i <= right; i++){
-            if(check(i)) res.add(i);
+            if(check(i)) 
+                res.add(i);
         }
-        
+
     return res;
     }
     private boolean check(int n){
@@ -14,7 +15,8 @@ class Solution {
         while(temp > 0){
             int digit =  temp % 10;
 
-            if(digit == 0 || n % digit != 0) return false;
+            if(digit == 0 || n % digit != 0) 
+                return false;
 
             temp = temp/10;
         }
