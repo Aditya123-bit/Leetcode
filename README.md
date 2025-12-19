@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aditya123-bit/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/Aditya123-bit/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Aditya123-bit/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aditya123-bit/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Aditya123-bit/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya123-bit/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/Aditya123-bit/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Aditya123-bit/Leetcode/tree/master/0742-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Aditya123-bit/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Aditya123-bit/Leetcode/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aditya123-bit/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Aditya123-bit/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/Aditya123-bit/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya123-bit/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
