@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Aditya123-bit/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Aditya123-bit/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Aditya123-bit/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditya123-bit/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Aditya123-bit/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Aditya123-bit/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aditya123-bit/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/Aditya123-bit/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya123-bit/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditya123-bit/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Aditya123-bit/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Aditya123-bit/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
