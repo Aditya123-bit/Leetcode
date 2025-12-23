@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Aditya123-bit/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aditya123-bit/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Aditya123-bit/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2833-furthest-point-from-origin](https://github.com/Aditya123-bit/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Aditya123-bit/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sorting
 |  |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditya123-bit/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Aditya123-bit/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Aditya123-bit/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2833-furthest-point-from-origin](https://github.com/Aditya123-bit/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Aditya123-bit/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aditya123-bit/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
